@@ -24,6 +24,8 @@ const Videos = ({ contract }) => {
   const [videos, setVideos] = useState([]);
   const [modalVisible, setModalVisible] = useState(false);
   const [selectedVideo, setSelectedVideo] = useState(null);
+  const [otherAccount  , setOtherAccount] = useState('');
+   
   const [title, setTitle] = useState('');
   const [uploadingVideo, setUploadingVideo] = useState(false);
   const [uploadingSelectedVideo, setUploadingSelectedVideo] = useState(false);

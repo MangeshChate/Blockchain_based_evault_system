@@ -1,4 +1,4 @@
-import { Delete, Share } from '@mui/icons-material';
+import { Delete, Download, Share } from '@mui/icons-material';
 import React, { useEffect, useState } from 'react';
 import Swal from 'sweetalert2';
 import {
@@ -67,7 +67,7 @@ const Table = ({ contract }) => {
                       Date
                     </th>
                     <th scope="col" className="px-6 py-3 text-left text-xs font-medium text-gray-800 dark:text-gray-300 uppercase tracking-wider">
-                      Actions  <span className='ms-5'>Share</span>
+                      Actions  <span className='ms-5'>Share</span> 
                     </th>
                   </tr>
                 </thead>
@@ -85,7 +85,10 @@ const Table = ({ contract }) => {
                       </td>
                       <td className="px-6 py-4 whitespace-nowrap text-left text-sm font-medium flex gap-5">
                         <Delete className="text-red-500 hover:text-red-900" onClick={() => deleteFileByAttributes(item.file_name, item.file_url)} />
+                        <a href={item.file_url} target="_blank">
+                        <Download className="text-blue-500 hover:text-blue-900" />
 
+                        </a>
                         {/* Share button */}
                         <div className="flex space-x-2 ms-5">
                           <WhatsappShareButton url={item.file_url} title={`Check out this file from MetaVault: ${item.file_name}`}>

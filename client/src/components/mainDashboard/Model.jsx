@@ -30,6 +30,8 @@ const MyFiles = ({ contract }) => {
   const [title, setTitle] = useState('');
   const [uploadingFile, setUploadingFile] = useState(false);
   const [selectedDocument, setSelectedDocument] = useState(null);
+  const [otherAccount  , setOtherAccount] = useState('');
+
   const account = localStorage.getItem('account');
   const fileType = "glb"; // Change file type to GLB
   const description = "no description";

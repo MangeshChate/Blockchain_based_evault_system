@@ -26,6 +26,8 @@ const MyImages = ({ contract }) => {
   const [images, setImages] = useState([]);
   const [modalVisible, setModalVisible] = useState(false);
   const [selectedImage, setSelectedImage] = useState(null);
+  const [otherAccount  , setOtherAccount] = useState('');
+
   const [title, setTitle] = useState('');
   const [uploadingImage, setUploadingImage] = useState(false);
   const account = localStorage.getItem('account');
