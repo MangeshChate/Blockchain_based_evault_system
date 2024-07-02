@@ -50,12 +50,7 @@ The project structure consists of two main folders:
 1. Once the project is set up and running, users can interact with the metaverse features through the frontend interface.
 2. Explore and engage with the metaverse functionalities seamlessly integrated into MetaVault.
 
-## Contributors
 
-- mangesh chate
-- atharv bangale
-- amey kulkarni
-- pratyusha ansapure
 
 
 
