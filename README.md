@@ -1,5 +1,3 @@
-
-
 # MetaVault
 
 ## Description
@@ -50,8 +48,26 @@ The project structure consists of two main folders:
 1. Once the project is set up and running, users can interact with the metaverse features through the frontend interface.
 2. Explore and engage with the metaverse functionalities seamlessly integrated into MetaVault.
 
+## Screenshots
 
+Here are some screenshots demonstrating various features of MetaVault:
 
+- ![Screenshot 1](client/public/1.png)
+- ![Screenshot 2](client/public/2.png)
+- ![Screenshot 3](client/public/3.png)
+- ![Screenshot 4](client/public/4.png)
+- ![Screenshot 5](client/public/5.png)
+- ![Screenshot 6](client/public/6.png)
+- ![Screenshot 7](client/public/7.png)
+- ![Screenshot 8](client/public/8.png)
+- ![Screenshot 9](client/public/9.png)
+- ![Screenshot 10](client/public/10.png)
+- ![Screenshot 11](client/public/11.png)
 
+## Portfolio
 
+For more of my work, you can visit my portfolio at [Mangesh Chate's Portfolio](https://mangeshchate.netlify.app/).
 
+## Warning
+
+Please make sure to use the Metamask wallet for interacting with the MetaVault system. Using any other wallet might result in unexpected behavior.
