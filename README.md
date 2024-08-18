@@ -1,8 +1,14 @@
 # MetaVault
 
+**Visit my portfolio for more exciting projects: [Mangesh Chate's Portfolio](https://mangeshchate.netlify.app/)**
+
+# MetaVault [Jump to Screenshots](#screenshots)
+
 ## Description
 
 MetaVault is an e-vault system built on blockchain technology, allowing users to securely upload and store various types of digital assets such as images, files, and 3D models. Additionally, MetaVault integrates features that enable users to interact with the metaverse.
+
+<mark style="background-color: yellow;">**Note:** You need to install the MetaMask wallet extension to use MetaVault. [Get MetaMask here](https://metamask.io/download.html).</mark>
 
 ## Project Structure
 
@@ -29,19 +35,19 @@ The project structure consists of two main folders:
 
 ### Installation
 
-1. Install the Metamask browser extension from [here](https://metamask.io/download.html).
-2. Set up a Metamask wallet by following the on-screen instructions.
+1. Install the MetaMask browser extension from [here](https://metamask.io/download.html).
+2. Set up a MetaMask wallet by following the on-screen instructions.
 
 ### Testnet Configuration
 
-1. Switch Metamask network to the desired testnet (e.g., Ropsten, Rinkeby, etc.).
+1. Switch MetaMask network to the desired testnet (e.g., Ropsten, Rinkeby, etc.).
 2. Ensure you have testnet Ethereum (ETH) in your wallet for transactions.
 
-### Using Anvil with Local Metamask Account
+### Using Anvil with Local MetaMask Account
 
 1. Start the Anvil service as per the instructions provided in the Foundrybook documentation.
-2. Connect your Metamask wallet to Anvil by following the provided steps.
-3. Use your local Metamask account to interact with the Anvil service.
+2. Connect your MetaMask wallet to Anvil by following the provided steps.
+3. Use your local MetaMask account to interact with the Anvil service.
 
 ## Interacting with the Metaverse
 
@@ -70,4 +76,4 @@ For more of my work, you can visit my portfolio at [Mangesh Chate's Portfolio](h
 
 ## Warning
 
-Please make sure to use the Metamask wallet for interacting with the MetaVault system. Using any other wallet might result in unexpected behavior.
+Please make sure to use the MetaMask wallet for interacting with the MetaVault system. Using any other wallet might result in unexpected behavior.
