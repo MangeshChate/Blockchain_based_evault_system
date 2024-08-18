@@ -2,7 +2,7 @@
 
 **Visit my portfolio for more exciting projects: [Mangesh Chate's Portfolio](https://mangeshchate.netlify.app/)**
 
-# MetaVault [Jump to Screenshots](#screenshots)
+# MetaVault <small>[<a href="#screenshots" style="text-decoration: underline;">Jump to Screenshots</a>]</small>
 
 ## Description
 
